@@ -1,6 +1,7 @@
 # myexpenses
-
-A new Flutter project.
+This is very simple app,it used to mention daily expense
+#fordevoleper
+curently app is resposive for all android device,you can contribute this project
 
 ## Getting Started
 
